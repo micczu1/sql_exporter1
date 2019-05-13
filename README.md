@@ -1,3 +1,4 @@
+**Moved to: https://github.com/micczu1/ansible-sql_exporter**
 
 # Ansible Role: sql_exporter
 
